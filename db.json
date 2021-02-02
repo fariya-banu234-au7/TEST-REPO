@@ -1,0 +1,54 @@
+{
+  "bookings": [
+    {
+      "order_id": 1184,
+      "hotelname": "JW Marriott Chandigarh",
+      "name": "sss",
+      "phone": "9538852609",
+      "id": 2,
+      "status": "Confirmed"
+    },
+    {
+      "id": 3942,
+      "hotelname": "Hometel Chandigarh",
+      "name": "john@gmail.com",
+      "phone": "9715",
+      "status": "Confirmed"
+    },
+    {
+      "id": 1792,
+      "hotelname": "Hometel Chandigarh",
+      "name": "john@gmail.com",
+      "hotel_id": "Hometel Chandigarh01",
+      "phone": "9715",
+      "status": "Confirmed"
+    },
+    {
+      "id": 341,
+      "hotelname": "Ramada Plaza",
+      "name": "s",
+      "phone": "8625",
+      "date": "2020-12-25",
+      "status": "Confirmed",
+      "hotelid": null
+    },
+    {
+      "id": 2021,
+      "hotelname": "The Taj Mahal Palace",
+      "name": "s",
+      "phone": "9715",
+      "date": "2020-12-25",
+      "status": "Pending",
+      "hotelid": null
+    },
+    {
+      "id": 7674,
+      "hotelname": "Hometel Chandigarh",
+      "name": "as",
+      "phone": "454",
+      "date": "",
+      "status": "Pending",
+      "hotelid": null
+    }
+  ]
+}
